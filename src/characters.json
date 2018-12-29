@@ -1,0 +1,62 @@
+[
+    { 
+        "id": 1,
+        "charName": "finn",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/a/a8/S1e16_Finn_afraid_of_the_ocean.png/revision/latest?cb=20120422215012"
+    },
+    { 
+        "id": 2,
+        "charName": "marceline",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/a/ac/S4e25_Marceline_in_her_cave.png/revision/latest?cb=20130110184518"
+    },
+    { 
+        "id": 3,
+        "charName": "jake",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/9d/Jake%27s_Invisible_Spiderweb_PANTS.png/revision/latest?cb=20111025050004"
+    },
+    { 
+        "id": 4,
+        "charName": "lsp",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/d/d7/LSP_Typewriter2.png/revision/latest?cb=20120926220351"
+    },
+    { 
+        "id": 5,
+        "charName": "gunter",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/10/Gunter_with_Kitten_taped_to_his_back.png/revision/latest?cb=20121010093743"
+    },
+    { 
+        "id": 6,
+        "charName": "pb",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/b/b2/S4_E19_Princess_Bubblegum_holding_electro-gun.png/revision/latest/scale-to-width-down/640?cb=20120820203924"
+    },
+    { 
+        "id": 7,
+        "charName": "earloflemongrab",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/7/7f/Mmm.jpg/revision/latest?cb=20120327200539"
+    },
+    { 
+        "id": 8,
+        "charName": "treetrunks",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/c5/S1e4_Tree_Trunks_carrying_basket.png/revision/latest?cb=20110727223334&format=original"
+    },
+    { 
+        "id": 9,
+        "charName": "bmo",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/8/86/S2e6_BMO_at_full_volume.jpg/revision/latest?cb=20120120121628"
+    },
+    { 
+        "id": 10,
+        "charName": "thelich",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/92/Lich_Image.png/revision/latest/scale-to-width-down/640?cb=20110523013725"
+    },
+    { 
+        "id": 11,
+        "charName": "cake",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/7/76/S5e11_Cake.png/revision/latest/scale-to-width-down/640?cb=20140228203134"
+    },
+    { 
+        "id": 12,
+        "charName": "iceking",
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/fb/S4e25_Ice_King_akimbo.png/revision/latest/scale-to-width-down/640?cb=20130913180103"
+    }
+]
