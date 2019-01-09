@@ -27,7 +27,7 @@ class App extends Component {
   handleClick = (id) => {
     //if the clicked image has an id of the indexed image
     if (this.state.clicked.indexOf(id) === -1) {
-      this.setState({ clicked: this.state.clicked.push(id) });
+      this.setState({ clicked: this.state.clicked.concat(id) });
       this.addPoint();
       this.shuffleChars();
     } else {
