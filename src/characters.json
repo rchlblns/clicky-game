@@ -2,7 +2,7 @@
     { 
         "id": 1,
         "charName": "finn",
-        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/a/a8/S1e16_Finn_afraid_of_the_ocean.png/revision/latest?cb=20120422215012"
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/a/a8/S1e16_Finn_afraid_of_the_ocean.png/revision/latest?cb=20120422215012&format=original"
     },
     { 
         "id": 2,
@@ -22,12 +22,12 @@
     { 
         "id": 5,
         "charName": "gunter",
-        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/1/10/Gunter_with_Kitten_taped_to_his_back.png/revision/latest?cb=20121010093743"
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/c/ca/S4_E24_Gunter%27s_guilty.PNG/revision/latest?cb=20131019163636&format=original"
     },
     { 
         "id": 6,
         "charName": "pb",
-        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/b/b2/S4_E19_Princess_Bubblegum_holding_electro-gun.png/revision/latest/scale-to-width-down/640?cb=20120820203924"
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/3/3e/S4e10_princessbubblegum_in_glasses.png/revision/latest?cb=20120530094809&format=original"
     },
     { 
         "id": 7,
@@ -47,16 +47,16 @@
     { 
         "id": 10,
         "charName": "thelich",
-        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/92/Lich_Image.png/revision/latest/scale-to-width-down/640?cb=20110523013725"
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/9/9f/S6e26_Lich_closeup.png/revision/latest?cb=20150130172456&format=original"
     },
     { 
         "id": 11,
         "charName": "cake",
-        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/7/76/S5e11_Cake.png/revision/latest/scale-to-width-down/640?cb=20140228203134"
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/7/76/S5e11_Cake.png/revision/latest?cb=20140228203134&format=original"
     },
     { 
         "id": 12,
         "charName": "iceking",
-        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/fb/S4e25_Ice_King_akimbo.png/revision/latest/scale-to-width-down/640?cb=20130913180103"
+        "image": "https://vignette.wikia.nocookie.net/adventuretimewithfinnandjake/images/f/fb/S4e25_Ice_King_akimbo.png/revision/latest?cb=20130913180103&format=original"
     }
 ]

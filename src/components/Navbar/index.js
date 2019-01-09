@@ -1,18 +1,15 @@
-import React, { Component } from "react";
+import React from "react";
 import "./style.css";
 
-class Navbar extends Component {
-    render () {
-        return (
-            <nav className="navbar navbar-default navbar-fixed-top">
-                <ul>
-                    <li className="itemLeft">Test Your Memmory</li>
-                    <li className="itemCenter"></li>
-                    <li className="itemRight">Score: </li>
-                </ul>
-            </nav>
-        );
-    }
+const Navbar = (props) => {
+
+    return (
+        <nav className="navbar navbar-default navbar-fixed-top">
+            <ul>
+                <li className="scores">Score: {props.currentScore} |  High score: {props.highScore}</li>
+            </ul>
+        </nav>
+    );
 }
 
 export default Navbar;

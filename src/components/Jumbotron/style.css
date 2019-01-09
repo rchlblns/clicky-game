@@ -1,0 +1,19 @@
+.header {
+	background-color: #00C3E9;
+	position: relative;
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+	font-size: 80px;
+	font-weight: bold;
+	padding: 40px 0 20px 0; 
+	font-family: "Cinzel", serif;
+}
+
+h4 {
+	text-align: center;
+	font-size: 30px;
+	padding: 0 0 20px 0; 
+}

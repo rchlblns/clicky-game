@@ -1,0 +1,21 @@
+.navbar li{
+    display: inline-block;
+    list-style-type: none;
+  }
+  
+  .scores {
+    justify-content: right;
+  }
+
+  .navbar {
+    background: #D3F0F4;
+    width: 100%;
+  }
+  
+  li {
+    color: black;
+  }
+  
+  body {
+    font-size: 24px;
+  }
