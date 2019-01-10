@@ -91,7 +91,7 @@ class App extends Component {
     return (
       // <div>
       <Wrapper>
-        <Jumbotron />
+        <Jumbotron currentScore={this.state.currentScore} highScore={this.state.highScore} feedback={this.state.feedback}/>
         {/* <Navbar /> */}
         {this.state.characters.map(character => (
           <CharCard
