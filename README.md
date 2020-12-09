@@ -41,8 +41,6 @@ npm start
 * React
 * Javascript/ES6
 * Bootstrap
-* HTML
-* CSS
 * Google Fonts 
 
 ## Author
