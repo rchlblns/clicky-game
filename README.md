@@ -40,6 +40,7 @@ npm start
 ## Built With
 * React
 * Javascript/ES6
+* CSS
 * Bootstrap
 * Google Fonts 
 
